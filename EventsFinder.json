@@ -1,0 +1,47 @@
+{
+    "EventsFinder":
+    [
+        {   "Title":"RSC Shenandoah Hiking Trip", 
+            "Description": "Ready for some fresh air and breathtaking views? Join us for a Hiking Trip to Shenandoah National Park on Sunday, October 27th! 🏞️ We'll meet on campus at 9 AM, split into small groups (5 per car), and drive out for a day full of hikes and a relaxing picnic.",
+            "location": "Meet at Merten Hall", 
+            "date":"Sunday, October 27th", 
+            "time":"9 AM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/trip.jpg?raw=true"
+        },
+        {
+            "Title": "CodeFest", 
+            "Description": "Join us for a day full of coding and collaboration on Tech for Good's semester long coding initiatives! Here we will share three of this semester's endeavors and set aside time to work together on them. Interested in joining a project but don't know how to start? This is the place!", 
+            "location": "Hub Meeting Room 1&2", 
+            "date": "Friday, November 1st", 
+            "time": "12:00 PM - 5:00 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/code.jpg?raw=true"
+          },
+          {
+            "Title": "2024 Communication Career Forum", 
+            "Description": "Gain career advice and network with some of the nation's leading communication professionals. Sign up for small group mentoring sessions with public affairs specialists, media producers, journalists, health communicators, marketers, and more! Registration is required. Please remember to dress to impress (business casual) and research the mentors if you are planning to attend!", 
+            "location": "Johnson Center, third floor", 
+            "date": "Tuesday, October 29th", 
+            "time": "8:30 AM - 12:00 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/career.jpg?raw=true"
+          },
+          {
+            "Title": "BSA Halloween Party", 
+            "Description": "Join us for our annual Halloween party", 
+            "location": "HUB Ballroom", 
+            "date": "November 1st - 2nd", 
+            "time": "9:00 PM - 12:30 AM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/halloween.jpg?raw=true"
+          },
+          {
+            "Title": "Beginners Guide to CNC Machines", 
+            "Description": "This is a brief workshop on the CNC machine's the MIX offers. This includes but is not limited to CNC routers (big machines with a rotating bit), CNC Engravers (same as a router but simpler) and PCB Routers (For electronics). In this workshop we will cover how these machines are run and be give a short demonstration of them in action.", 
+            "location": "Horizon Hall 1408", 
+            "date": "Tuesday, October 29th", 
+            "time": "4:00 PM - 5:25 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/CNC.jpg?raw=true"
+          }
+
+    ],
+    "Status":"OK"
+
+}
