@@ -17,8 +17,8 @@
             "time": "12:00 PM - 5:00 PM", 
             "image": "https://github.com/mkhan12344/IT315/blob/main/code.jpg?raw=true",
             "url": "https://www.gmu.edu/student-life/activities-and-events"
-          },
-          {
+        },
+        {
             "Title": "2024 Communication Career Forum", 
             "Description": "Gain career advice and network with some of the nation's leading communication professionals. Sign up for small group mentoring sessions with public affairs specialists, media producers, journalists, health communicators, marketers, and more! Registration is required. Please remember to dress to impress (business casual) and research the mentors if you are planning to attend!", 
             "location": "Johnson Center, third floor", 
@@ -26,8 +26,8 @@
             "time": "8:30 AM - 12:00 PM", 
             "image": "https://github.com/mkhan12344/IT315/blob/main/career.jpg?raw=true",
             "url": "https://www.gmu.edu/student-life/activities-and-events"
-          },
-          {
+        },
+        {
             "Title": "BSA Halloween Party", 
             "Description": "Join us for our annual Halloween party", 
             "location": "HUB Ballroom", 
@@ -35,8 +35,8 @@
             "time": "9:00 PM - 12:30 AM", 
             "image": "https://github.com/mkhan12344/IT315/blob/main/halloween.jpg?raw=true",
             "url": "https://www.gmu.edu/student-life/activities-and-events"
-          },
-          {
+        },
+        {
             "Title": "Beginners Guide to CNC Machines", 
             "Description": "This is a brief workshop on the CNC machine's the MIX offers. This includes but is not limited to CNC routers (big machines with a rotating bit), CNC Engravers (same as a router but simpler) and PCB Routers (For electronics). In this workshop we will cover how these machines are run and be give a short demonstration of them in action.", 
             "location": "Horizon Hall 1408", 
@@ -44,7 +44,36 @@
             "time": "4:00 PM - 5:25 PM", 
             "image": "https://github.com/mkhan12344/IT315/blob/main/CNC.jpg?raw=true",
             "url": "https://www.gmu.edu/student-life/activities-and-events"
-          }
+        },
+
+        {
+            "Title": "Pancake Breakfast", 
+            "Description": "Join us in the Honors College Student Lounge to enjoy some delicious pancakes before finals begin.", 
+            "location": "Buchanan D205", 
+            "date": "Tuesday, December 10", 
+            "time": "10 AM - 1 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/pancake.png?raw=true",
+            "url": "https://www.gmu.edu/student-life/activities-and-events"
+        },
+        {
+            "Title": "Panhellenic Banquet", 
+            "Description": "Join the Panhellenic Community in celebrating the achievements of its members and welcoming its 2025 Panhellenic Executive Council!", 
+            "location": "HUB Ballroom", 
+            "date": "Tuesday, December 10", 
+            "time": "7 PM - 9 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/banquet.png?raw=true",
+            "url": "https://www.gmu.edu/student-life/activities-and-events"
+        },
+        {
+            "Title": "The Cove: Pot Painting", 
+            "Description": "Come join us at our Pot Painting event on December 11th! Don’t miss out on snacks, drinks, & a whole lot of fun! Secure your spot on Mason360!", 
+            "location": "Student Union Building I, Suite 3200", 
+            "date": "Wednesday, December 11", 
+            "time": "11:15 AM - 12:30 PM", 
+            "image": "https://github.com/mkhan12344/IT315/blob/main/painting.png?raw=true",
+            "url": "https://www.gmu.edu/student-life/activities-and-events"
+        }
+
 
     ],
     "Status":"OK"
